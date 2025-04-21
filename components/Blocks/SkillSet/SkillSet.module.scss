@@ -95,16 +95,16 @@
 .circularCarouselWrapper{
   position: relative;
   --circSize: 65dvw;
-  --cardSize: calc(var(--circSize) / 5.2);
+  --cardSize: calc(var(--circSize) / 7); /* Further reduced size */
   padding: calc(var(--cardSize) / 2);
-  margin: 0 auto 0 auto;
+  margin: 0 auto;
   width: fit-content;
   height: calc(var(--circSize) * 0.66);
   overflow: hidden;
 
   @include respond-below(sm) {
     --circSize: 150dvw;
-    --cardSize: calc(var(--circSize) / 4);
+    --cardSize: calc(var(--circSize) / 6); /* Adjusted for smaller screens */
     padding: calc(var(--cardSize) / 2);
     height: calc(var(--circSize) * 0.7);
     left: -50dvw;
@@ -148,20 +148,20 @@
   .circularDescriptions{
     position: absolute;
     left: 50%;
-    top: calc(var(--cardSize) * 1.5);
+    top: calc(var(--cardSize) * 1.8); /* Adjusted for smaller card size */
     transform: translate(-50%, 20%);
 
     display: flex;
     flex-direction: column;
-    gap: 3rem;
+    gap: 1.5rem; /* Reduced gap */
     text-align: center;
 
     opacity: 0;
     transition: all 0.3s ease-in-out;
     @include respond-below(sm) {
       padding: 0 1.5rem;
-      top: calc(var(--cardSize) * 1.3);
-      gap: 1.5rem;
+      top: calc(var(--cardSize) * 1.2);
+      gap: 0.8rem;
     }
     &.isActive {
       opacity: 1;
@@ -171,7 +171,7 @@
 
 }
 .title{
-  font-size: var(--fs-sm);
+  font-size: calc(var(--fs-sm) * 1.5); /* Slightly smaller font size */
   color: hsla(var(--color-white), 0.8);
   font-weight: var(--fw-bold);
 }
@@ -179,7 +179,25 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 40ch;
-  font-size: var(--fs-xs);
+  font-size: calc(var(--fs-xs) * 1.2); /* Slightly smaller font size */
   color: hsl(var(--color-body));
+}
+.subtitle {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  color: hsl(var(--color-white));
+}
+.subtitle p {
+  text-align: center;
+  background-color: #691EE2;
+  padding: 3px 7px;
+  border-radius: 10px;
+  margin: 10px;
+  font-size: calc(var(--fs-xs) * 1.5); /* Slightly smaller font size */
+  color: hsl(var(--color-white));
+}
+#skillImage {
+  width: 100% !important;
+  height: 100% !important;
 }

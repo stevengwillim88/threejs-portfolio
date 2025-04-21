@@ -1,76 +1,89 @@
 [
   {
-    "position": "Senior Frontend Developer",
-    "company": "TenTwenty Digital Agency",
-    "duration": "January 2022 - September 2023",
+    "position": "Senior Software Engineer",
+    "company": "WellDev - TELUS Health",
+    "duration": "Feb 2022 - Mar 2025",
     "location": "Remote",
     "image": "/company/tentwenty.svg",
     "url": "https://www.tentwenty.me/",
     "responsibilities": [
-      "Built animation-focused websites using React JS, GSAP, and the Locomotive Scroll library.",
-      "Integrated websites seamlessly with Concrete CMS for 100% easy content management.",
-      "Collaborated with designers and backend developers, delivering 10+ top-notch websites on time.",
-      "Achieved more than 50% faster webpage loading on every project, prioritizing performance and speed.",
-      "Experienced Arabic RTL layout in two significant projects.",
-      "Successfully met deadlines, delivering 10+ projects on time."
-    ],
-    "color": {
-      "h": "221",
-      "s": "79%",
-      "l": "51%"
-    }
-  },
-  {
-    "position": "UI & FE Developer",
-    "company": "Denge Bilgisayar",
-    "duration": "May 2018 - January 2022",
-    "location": "Hybrid",
-    "image": "/company/denge-bilgisayar.svg",
-    "url": "httsp://denge.com.tr/",
-    "responsibilities": [
-      "Re-designed over 85 unique pages for B2B, CRM, and corporate websites in Figma.",
-      "Collaborated closely with two backend developers, creating the frontend of the entire project.",
-      "Ensured fast page loading, scoring over 90 in page speed.",
-      "Focused on making the B2B e-commerce platform easy to use for 3000+ business customers."
-    ],
-    "color": {
-      "h": "206",
-      "s": "59%",
-      "l": "44%"
-    }
-  },
-  {
-    "position": "Frontend Developer",
-    "company": "Agency Look",
-    "duration": "April 2017 - May 2018",
-    "location": "On-site",
-    "image": "/company/agency-look.svg",
-    "url": "https://look.agency/",
-    "responsibilities": [
-      "Developed and maintained functional pages for web applications.",
-      "Worked with a .NET based custom CMS.",
-      "Built hundreds of responsive HTML email template modules, reducing email template processing time significantly."
-    ],
-    "color": {
-      "h": "240",
-      "s": "100%",
-      "l": "45%"
-    }
-  },
-  {
-    "position": "Web Designer",
-    "company": "Softanka Yazılım",
-    "duration": "January 2016 - March 2017",
-    "location": "On-site",
-    "image": "/company/softanka.svg",
-    "url": "https://www.playanka.com/",
-    "responsibilities": [
-      "Designed and developed themes for game markets"
+      "• Led the migration to Micro-Frontend Architecture using Webpack Module Federation and Nx monorepo",
+      "• Built core UI components using React 18, TypeScript, and Tailwind CSS following atomic design principles",
+      "• Created SSR-enabled modules with Next.js 13 for dynamic route handling and SEO optimization",
+      "• Integrated OAuth2 SSO and access control with React Router and context-based auth layers Collaborated with backend teams consuming REST and GraphQL APIs",
+      "• Achieved Lighthouse scores of 95+ through lazy loading, image optimization, and code splitting",
+      "• Used Cypress, Jest, and Storybook for E2E, unit, and visual testing",
+      "• Deployed to Azure using GitHub Actions and Terraform; monitored frontend KPIs via Sentry and Datadog",
+      "• Mentored 5+ frontend engineers and standardized the frontend build pipeline"
     ],
     "color": {
       "h": "210",
-      "s": "0%",
-      "l": "90%"
+      "s": "125%",
+      "l": "50%"
+    }
+  },
+  {
+    "position": "Senior FullStack Developer  ",
+    "company": "Amazon",
+    "duration": "Oct 2018 - Dec 2021",
+    "location": "Remote",
+    "image": "/company/denge-bilgisayar.svg",
+    "url": "httsp://denge.com.tr/",
+    "responsibilities": [
+      "• Developed React-based dashboards with Redux Toolkit and custom hooks",
+      "• Built SSR components using Next.js 10–12 with dynamic imports and fallback strategies",
+      "• Integrated real-time order tracking using WebSockets and React Query",
+      "• Used Angular 10+ to maintain legacy modules during React migration",
+      "• Contributed to internal component library with accessibility and theming support (ARIA, dark mode)",
+      "• Reduced initial load time by 45% with route-based code splitting and image optimization",
+      "• Automated deployments with Jenkins and managed frontend containers on AWS ECS",
+      "• Participated in A/B testing with Optimizely and Google Optimize to drive UI decisions"
+    ],
+    "color": {
+      "h": "280",
+      "s": "65%",
+      "l": "40%"
+    }
+  },
+  {
+    "position": "FullStack Developer",
+    "company": "Appnovation",
+    "duration": "Jul 2014 - Aug 2018",
+    "location": "Full-time",
+    "image": "/company/agency-look.svg",
+    "url": "https://look.agency/",
+    "responsibilities": [
+      "• Developed AngularJS to Angular 6+ enterprise applications with RxJS and NgRx",
+      "• Migrated key modules from jQuery to React 16, improving maintainability and performance",
+      "• Built responsive layouts using Bootstrap 4, Flexbox, and Sass",
+      "• Implemented data-driven charts with D3.js and Chart.js",
+      "• Integrated REST APIs and used Axios, GraphQL clients for data layers",
+      "• Created custom CI/CD scripts for versioned builds and CDN deployments",
+      "• Led internal workshops on moving from monoliths to SPAs and PWA patterns"
+    ],
+    "color": {
+      "h": "160",
+      "s": "650%",
+      "l": "35%"
+    }
+  },
+  {
+    "position": "Junior Software Developer",
+    "company": "iQmetrix ",
+    "duration": "Mar 2012 - May 2014",
+    "location": "Full-time",
+    "image": "/company/softanka.svg",
+    "url": "https://www.playanka.com/",
+    "responsibilities": [
+      "• Built interactive forms and reports with jQuery and vanilla JavaScript",
+      "• Migrated static pages to responsive templates using Bootstrap 3",
+      "• Supported early experiments with Knockout.js and client-side routing",
+      "• Assisted QA and UX teams with user testing, UI fixes, and browser compatibility"
+    ],
+    "color": {
+      "h": "40",
+      "s": "90%",
+      "l": "30%"
     }
   }
 ]

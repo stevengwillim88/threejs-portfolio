@@ -99,7 +99,7 @@
   display: flex;
   align-items: center;
   gap: 1rem;
-  font-size: var(--fs-ms);
+  font-size: var(--fs-md);
   color: hsla(var(--color-white), .9);
   line-height: 1;
   border: 1px solid hsla(var(--color-white), .3);
@@ -151,7 +151,7 @@
   font-size: var(--fs-ms);
   color: hsla(var(--color-white), .9);
   text-transform: uppercase;
-  @include respond-below(xs) {
+  @include respond-below(md) {
     display: none;
   }
 }

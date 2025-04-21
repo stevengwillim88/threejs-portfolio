@@ -1,30 +1,27 @@
 {
   "metadata": {
-    "name": "Yasin",
-    "title": "Yasin Genc - Front-End Developer",
-    "description": "I develop accessible, responsive, interactive, and animated websites with a strong focus on performance.",
+    "name": "Steven",
+    "title": "Steven Gwillim - Sernior Software Engineer",
+    "description": "I build scalable, secure, and high-performing web applications from frontend to backend, with clean code and user-first design in mind.",
     "timeZone": "America/Los_Angeles",
     "locale": "en-US"
   },
   "personal": {
-    "name": "Yasin",
-    "surname": "Genc",
-    "role": "Front-End Developer",
-    "experience": 7,
-    "email": "yasin@yasingenc.net",
-    "phone": "+12538316296",
-    "city": "Seattle",
-    "state": "WA",
-    "country": "USA",
-    "username": "@yasingencnet",
-    "resumeURL": "https://docs.google.com/document/d/16Fd02ejg1HRan8TIXLOOe5kkBeGqtQvcHOybxVoHOYA/edit?usp=sharing"
+    "name": "Steven",
+    "surname": "Gwillim",
+    "role": "Senior Software Engineer",
+    "experience": 12,
+    "email": "stevengwillim88@gmail.com",
+    "phone": "12538316296",
+    "city": "Surrey",
+    "state": "British Columbia",
+    "country": "Canada",
+    "username": "@stevengwillim",
+    "resumeURL": "https://drive.google.com/file/d/1vkU0kbRmsFyOFCmQC3F824M86QwDdrGD/view?usp=drive_link"
   },
   "social": {
-    "twitter": "https://twitter.com/yasingencnet",
-    "instagram": "https://www.instagram.com/yasingencnet",
-    "linkedin": "https://www.linkedin.com/in/yasingencnet/",
-    "github": "https://github.com/yasingencnet",
-    "codepen": "https://codepen.io/yasingencnet"
+    "linkedin": "https://www.linkedin.com/in/steven-gwillim/",
+    "github": "https://github.com/stevengwillim88"
   },
   "content": {
     "verse": "Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. [2 Cor. 9:6]"

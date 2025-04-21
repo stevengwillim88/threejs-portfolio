@@ -1,6 +1,7 @@
+@import '/assets/media-queries.scss';
 .element{
-  --elementSize: 5.6rem;
-  --figureSize: 4rem;
+  --elementSize: 8rem;
+  --figureSize: 5rem;
 
   width: var(--elementSize);
   height: var(--elementSize);
@@ -20,7 +21,7 @@
     right: 0;
     top: 0;
     height: 100%;
-    width: 6rem;
+    width: 8rem;
     background: linear-gradient(to right, transparent 0%, hsl(var(--color-white)) 50%);
     visibility: hidden;
   }
@@ -58,10 +59,35 @@
   transform: translateY(-50%);
   width: max-content;
   font-size: var(--fs-xs);
+
+  a, button{
+    display: block;
+    text-decoration: none;
+    border: 0;
+    background: transparent;
+    text-align: left;
+    &:hover{
+      cursor: pointer;
+    }
+  }
+  
 }
 .date{
   color: hsl(var(--color-body));
 }
 .description{
   color: hsl(var(--color-black));
+}
+
+.title{
+  color: hsl(var(--color-body));
+  font-weight: var(--fw-regular);
+  font-size: var(--fs-xs);
+  @include respond-below(sm) {
+    display: none;
+  }
+
+  a:hover &, button:hover & {
+    color: hsl(var(--color-primary));
+  }
 }

@@ -31,6 +31,12 @@
     height: auto;
   }
 }
+.swiper-slide {
+  height: 100%;
+  position: relative;
+  transition-property: transform;
+  display: block;
+}
 
 .figure{
   position: relative;
@@ -61,7 +67,7 @@
 
   &.vertical{
     @include respond-above(xl) {
-      max-width: calc(100vh - 30rem);
+      max-width: 100%
     }
   }
   &.horizontal{

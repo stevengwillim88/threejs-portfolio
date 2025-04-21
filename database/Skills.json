@@ -1,72 +1,269 @@
 [
   {
-    "icon": "IconJS",
-    "image": "/icon/icon-js.svg",
-    "title": "JavaScript",
-    "subtitle": "Vanilla, jQuery",
-    "description": "I bring websites to life with JavaScript, adding interactive features and optimizing performance with clean and efficient code."
+    "icon": "IconLanguage",
+    "image": "/icon/icon-language.png",
+    "title": "Languages",
+    "subtitle": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "Java",
+      "C#",
+      "PHP",
+      "Ruby",
+      "Go"
+    ],
+    "description": "I am proficient in multiple programming languages, including HTML, CSS, JavaScript, Python, and Java, allowing me to develop versatile and efficient web applications."
   },
   {
-    "icon": "IconReact",
-    "image": "/icon/icon-react.svg",
-    "title": "React JS",
-    "subtitle": "Next.js, Vercel",
-    "description": "Using React, I craft scalable user interfaces with components, state management, and virtual DOM manipulation for seamless web applications."
+    "icon": "IconFront",
+    "image": "/icon/icon-frontend.png",
+    "title": "Frontend",
+    "subtitle": [
+      "React",
+      "Next.js",
+      "Vue",
+      "Nuxt.js",
+      "Svelte",
+      "Angular",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Radix UI",
+      "Remix UI(ShadCN)",
+      "Chakra UI",
+      "Material UI"
+    ],
+    "description": "I specialize in frontend development using React and Next.js, creating responsive and interactive user interfaces that enhance user experience and engagement."
   },
   {
-    "icon": "IconCSS",
-    "image": "/icon/icon-css.svg",
-    "title": "CSS",
-    "subtitle": "Animations, Sass",
-    "description": "I prioritize pixel perfection, paying close attention to details for visually polished and precisely aligned designs, ensuring a seamless user experience."
+    "icon": "IconBackend",
+    "image": "/icon/icon-backend.png",
+    "title": "Backend",
+    "subtitle": [
+      "Node.js",
+      "Express",
+      "Django",
+      "Flask",
+      "Ruby on Rails",
+      "Spring Boot",
+      "Laravel",
+      "FastAPI",
+      "NestJS",
+      "GraphQL",
+      "Apollo Server",
+      "Prisma",
+      "RabbitMQ",
+      "Socket.IO"
+    ],
+    "description": "I build robust backend systems using Node.js and Express, ensuring efficient data handling and seamless integration with frontend applications for a complete web solution."
   },
   {
-    "icon": "IconHTML",
-    "image": "/icon/icon-html.svg",
-    "title": "HTML",
-    "subtitle": "Semantic Markup",
-    "description": "Beyond markup, HTML is crucial for an inclusive web. I structure content carefully for universal accessibility."
+    "icon": "IconBlockchain",
+    "image": "/icon/icon-blockchain.png",
+    "title": "Blockchain",
+    "subtitle": [
+      "Ethereum",
+      "Solidity",
+      "Web3.js",
+      "Truffle",
+      "Hardhat",
+      "Alchemy",
+      "Smart Contracts",
+      "solana",
+      "Polygon",
+      "Arbitrum",
+      "Rust",
+      "Cosmos",
+      "Substrate",
+      "ZK-SNARKS",
+      "ZK-STARKS"
+    ],
+    "description": "I develop decentralized applications (dApps) using blockchain technologies like Ethereum and Solidity, ensuring secure and transparent transactions through smart contracts."
+  },
+  {
+    "icon": "IconMobile",
+    "image": "/icon/icon-mobile.png",
+    "title": "Mobile Development",
+    "subtitle": ["React Native", "Flutter", "Ionic", "Expo", "Tailwind CSS"],
+    "description": "I develop mobile applications using React Native and Flutter, ensuring cross-platform compatibility and a seamless user experience on both iOS and Android devices."
+  },
+  {
+    "icon": "IconState",
+    "image": "/icon/icon-redux.png",
+    "title": "State Management",
+    "subtitle": ["Redux", "MobX", "Recoil", "Zustand", "Pinia"],
+    "description": "I manage application state effectively using Redux and MobX, ensuring smooth data flow and efficient rendering in complex web applications."
+  },
+  {
+    "icon": "IconDatabase",
+    "image": "/icon/icon-database.png",
+    "title": "Database",
+    "subtitle": [
+      "PostgreSQL",
+      "Redis",
+      "MongoDB",
+      "MySQL",
+      "SQLite",
+      "DynamoDB",
+      "Firebase",
+      "Supabase"
+    ],
+    "description": "I manage data effectively with databases like PostgreSQL and MongoDB, ensuring efficient storage, retrieval, and manipulation of information for web applications."
+  },
+
+  {
+    "icon": "IconCMS",
+    "image": "/icon/icon-cms.png",
+    "title": "Ecommerce Development",
+    "subtitle": ["WordPress", "Shopify", "Webflow", "Squarespace", "HubSpot"],
+    "description": "I create and manage websites using popular CMS platforms like WordPress, Shopify, and Webflow, ensuring user-friendly interfaces and efficient content management."
+  },
+  {
+    "icon": "IconGit",
+    "image": "/icon/icon-git.png",
+    "title": "Version Control",
+    "subtitle": ["Git", "GitHub", "GitLab", "Bitbucket"],
+    "description": "I manage code changes with Git, using platforms like GitHub and GitLab for collaboration, version control, and efficient project management."
   },
   {
     "icon": "IconOptimization",
     "image": "/icon/icon-optimization.svg",
     "title": "PageSpeed",
-    "subtitle": "Insights",
+    "subtitle": ["Insights", "Lighthouse", "GTmetrix", "WebPageTest"],
     "description": "I specialize in enhancing website performance, ensuring fast loading times and efficient resource utilization for an optimal user experience."
   },
   {
-    "icon": "IconA11Y",
-    "image": "/icon/icon-a11y.svg",
-    "title": "A11Y",
-    "subtitle": "Web Accessibility",
-    "description": "Accessibility is a must. I ensure everyone can use what I create, focusing on keyboard navigation and screen reader compatibility."
-  },
-  {
-    "icon": "IconFigma",
-    "image": "/icon/icon-figma.svg",
-    "title": "Design",
-    "subtitle": "Figma & Photoshop",
-    "description": "While not a full-time UI designer, I have an eye for aesthetics, creating visually appealing and user-friendly interfaces."
+    "icon": "IconDesign",
+    "image": "/icon/icon-design.png",
+    "title": "Design Tools",
+    "subtitle": [
+      "Figma",
+      "Adobe XD",
+      "Photoshop",
+      "Illustrator",
+      "Canva",
+      "Framer",
+      "Webflow"
+    ],
+    "description": "I utilize design tools like Figma and Adobe XD to create visually appealing and user-friendly interfaces, ensuring a seamless design-to-development process."
   },
   {
     "icon": "IconWebpack",
-    "image": "/icon/icon-webpack.svg",
-    "title": "Development Env.",
-    "subtitle": "Webpack",
-    "description": "I use tools like Webpack, Vite, Parcel, or Gulp to streamline workflows, automating development for efficiency."
+    "image": "/icon/icon-webpack.png",
+    "title": "Development Environment",
+    "subtitle": ["Webpack", "Vite", "Parcel", "Gulp", "Babel", "ESLint"],
+    "description": "I set up efficient development environments using tools like Webpack and Vite, optimizing build processes and ensuring smooth workflows for web projects."
   },
   {
     "icon": "IconAPI",
-    "image": "/icon/icon-api.svg",
-    "title": "REST APIs",
-    "subtitle": "Axios x Fetch",
+    "image": "/icon/icon-api.png",
+    "title": "API Integration",
+    "subtitle": [
+      "REST API",
+      "GraphQL",
+      "gRPC",
+      "WebSockets",
+      "OpenAPI",
+      "Postman",
+      "Swagger"
+    ],
     "description": "I integrate data and functionality seamlessly with REST APIs, creating dynamic web applications for enhanced performance."
   },
+
   {
     "icon": "IconGSAP",
     "image": "/icon/icon-gsap.svg",
-    "title": "GSAP",
-    "subtitle": "Scroll Animations",
-    "description": "I use GSAP for captivating animations that bring web pages to life, enhancing the overall user experience."
+    "title": "Animation",
+    "subtitle": ["GSAP", "Framer Motion", "Lottie", "Three.js"],
+    "description": "I create engaging animations using GSAP and Framer Motion, enhancing user experience and interaction on web applications."
+  },
+  {
+    "icon": "IconSEO",
+    "image": "/icon/icon-seo.png",
+    "title": "SEO Optimization",
+    "subtitle": [
+      "Google Analytics",
+      "Google Search Console",
+      "Ahrefs",
+      "SEMrush"
+    ],
+    "description": "I optimize websites for search engines, improving visibility and performance using tools like Google Analytics and SEMrush."
+  },
+  {
+    "icon": "IconTesting",
+    "image": "/icon/icon-test.png",
+    "title": "Testing",
+    "subtitle": ["Jest", "Cypress", "Selenium", "Vitest"],
+    "description": "I ensure code quality and reliability through testing frameworks like Jest and Cypress, implementing unit tests and end-to-end testing for robust applications."
+  },
+  {
+    "icon": "IconCloud",
+    "image": "/icon/icon-cloud.png",
+    "title": "Cloud Services",
+    "subtitle": [
+      "AWS",
+      "Azure",
+      "Firebase",
+      "Heroku",
+      "Netlify",
+      "Vercel",
+      "Cloudflare"
+    ],
+    "description": "I leverage cloud services like AWS and Firebase for scalable application hosting, ensuring high availability and performance for web projects."
+  },
+  {
+    "icon": "IconDevOps",
+    "image": "/icon/icon-devops.png",
+    "title": "DevOps",
+    "subtitle": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform",
+      "Jenkins",
+      "Agile"
+    ],
+    "description": "I implement DevOps practices using Docker and Kubernetes for containerization and orchestration, ensuring efficient development and deployment workflows."
+  },
+  {
+    "icon": "IconAI",
+    "image": "/icon/icon-ai.png",
+    "title": "AI & ML",
+    "subtitle": [
+      "OpenAI",
+      "NLP",
+      "LLM",
+      "Langchain",
+      "Hugging Face",
+      "Vercel AI",
+      "ChatGPT",
+      "Stable Diffusion",
+      "AWS Bedrock",
+      "Google Vertex AI",
+      "Anthropic Claude",
+      "Cohere",
+      "LLaMA",
+      "Bard",
+      "Mistral",
+      "Claude 2",
+      "Gemini"
+    ],
+    "description": "I utilize AI and machine learning frameworks like TensorFlow and PyTorch to develop intelligent applications, enhancing user experiences with data-driven insights."
+  },
+
+  {
+    "icon": "IconCyberSecurity",
+    "image": "/icon/icon-cyber.png",
+    "title": "Cybersecurity",
+    "subtitle": [
+      "Penetration Testing",
+      "Ethical Hacking",
+      "Network Security",
+      "Vulnerability Assessment",
+      "Incident Response",
+      "Security Auditing"
+    ],
+    "description": "I implement cybersecurity measures to protect applications and data, conducting penetration testing and vulnerability assessments to ensure robust security."
   }
 ]

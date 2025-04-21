@@ -1,75 +1,80 @@
 [
   {
-    "url": "/gallery/G0062517.JPG",
-    "date": "July 2022",
-    "location": "Oludeniz, Turkey",
+    "url": "/project/lilysilk.png",
+    "site": "https://www.lilysilk.com/",
+    "date": "Sep 2024 - Nov 2024",
+    "skills": "React, Next.js",
     "direction": "vertical"
   },
   {
-    "url": "/gallery/IMG_20231225_165326.jpg",
-    "date": "December 2023",
-    "location": "Seattle, WA",
+    "url": "/project/lichi.png",
+    "site": "https://lichi.com/us/en",
+    "date": "Jun 2024 - Aug 2024",
+    "skills": "React, Next.js",
     "direction": "vertical"
   },
   {
-    "url": "/gallery/G0062743.JPG",
-    "date": "30 August",
-    "location": "Kas, Turkey",
+    "url": "/project/rentaldream.png",
+    "site": "https://rent-qoute-pro.vercel.app/",
+    "date": "Feb 2024 - May 2024",
+    "skills": "React, Next.js, Vercel, ShadCN",
+    "direction": "vertical"
+  },
+  {
+    "url": "/project/carrental.png",
+    "site": "https://rentalpreveza.gr/",
+    "date": "Jul 2023 - Dec 2023",
+    "skills": "React, Wordpress, Elementor",
+    "direction": "vertical"
+  },
+  {
+    "url": "/project/cambiar.png",
+    "site": "https://www.hertzmexico.com/en/",
+    "date": "Mar 2023 - Apr 2023",
+    "skills": "React, Next.js, Tailwind CSS",
+    "direction": "vertical"
+  },
+  {
+    "url": "/project/houserental.png",
+    "site": "https://www.crescentretreats.com/",
+    "date": " Feb 2023 - Mar 2023",
+    "skills": "Bootstrap, Redux",
     "direction": "horizontal"
   },
   {
-    "url": "/gallery/20180411_151600.jpg",
-    "date": "April 2018",
-    "location": "Bangkok, Thailand",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG20210306162608.jpg",
-    "date": "March 2021",
-    "location": "Chernobyl, Ukraine",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG_20230420_134057.jpg",
-    "date": "April 2023",
-    "location": "Lycian Way, Antalya",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG_20200720_191527.jpg",
-    "date": "July 2020",
-    "location": "Yalova, Turkey",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG_20210130_135221.jpg",
-    "date": "January 2021",
-    "location": "Lutsk, Ukraine",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG_20210713_103018.jpg",
-    "date": "July 2021",
-    "location": "Kamianets-Podilskyi, Ukraine",
-    "direction": "vertical"
-  },
-  {
-    "url": "/gallery/IMG_20220715_132804.jpg",
-    "date": "July 2022",
-    "location": "Kas, Turkey",
+    "url": "/project/re-evolution.png",
+    "site": "https://hispanosuizacars.com",
+    "date": "Mar 2022 - Jul 2022",
+    "skills": "Wordpress, Hubspot",
     "direction": "horizontal"
   },
   {
-    "url": "/gallery/image_2024-01-24_23-54-41.png",
-    "date": "February 2021",
-    "location": "Lviv, Ukraine",
+    "url": "/project/myhouse.png",
+    "site": "https://myhousehospitality.com",
+    "date": "Oct 2021 - Dec 2021",
+    "skills": "React, Next.js, Material UI",
+    "direction": "vertical"
+  },
+
+  {
+    "url": "/project/Ibiza.png",
+    "site": "https://www.louxibiza.com/",
+    "date": "May 2020 - Jun 2020",
+    "skills": "Webflow, JQuery",
     "direction": "vertical"
   },
   {
-    "url": "/gallery/IMG20210707082309.jpg",
-    "date": "July 2021",
-    "location": "Kyiv, Ukraine",
+    "url": "/project/sensational.png",
+    "site": "https://www.sensationalseaadventures.com/",
+    "date": "Jul 2018 - Aug 2018",
+    "skills": "Wordpress, Wix, React",
+    "direction": "vertical"
+  },
+  {
+    "url": "/project/one.png",
+    "site": "https://onestayinfo.holidayfuture.com/",
+    "date": "Mar 2018 - Apr 2018",
+    "skills": "React, Next.js",
     "direction": "vertical"
   }
-
 ]
