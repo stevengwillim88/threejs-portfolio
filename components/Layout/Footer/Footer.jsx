@@ -66,7 +66,7 @@ export default function Footer() {
           <Link
             className={styles.email}
             href={`mailto:${commonConfig.personal.email}`}
-            style={{fontSize:"40px"}}
+            style={{ fontSize: "40px" }}
           >
             Let’s Connect.
           </Link>
@@ -95,13 +95,6 @@ export default function Footer() {
         </div>
       </div>
       <figure className={styles.skeleton} ref={skeleton}>
-        <Image
-          src="/skeleton.png"
-          alt={commonConfig.metadata.title}
-          width={379}
-          height={259}
-          loading={"lazy"}
-        />
         <span className={`${styles.eyeball} ${styles.left}`}></span>
         <span className={`${styles.eyeball} ${styles.right}`}></span>
       </figure>

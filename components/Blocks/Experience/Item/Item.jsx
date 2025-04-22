@@ -25,10 +25,10 @@ export default function Item({
           <span className={styles.info}>{location}</span>
         </div>
       </div>
-      <div style={{padding:"10px 0"}}>
+      <div style={{padding:"0.75rem 0"}}>
         {responsibilities.map((it, ix) => (
           <div className={styles.responsibility} key={ix}>
-            <p data-text={position} style={{fontSize:"25px", color:"white"}}>{it}</p>
+            <p data-text={position} style={{fontSize:"1.5rem", color:"white"}}>{it}</p>
           </div>
         ))}
       </div>
